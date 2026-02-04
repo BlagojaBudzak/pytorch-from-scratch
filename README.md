@@ -64,4 +64,4 @@ pip install -r requirements.txt
 notebooks/pytorch_binary_classification_circles.ipynb
 ```
 
-# 🏆Developed by Blagoja Budzakoski
+## 🏆Developed by Blagoja Budzakoski
