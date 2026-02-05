@@ -42,7 +42,6 @@ The model is constructed using PyTorch's fundamental building blocks. Instead of
 One of the key features of this repository is the visualization of the model's decision boundaries. These plots illustrate how the neural network separates different classes in the feature space.
 
 - **Decision Boundaries:** We map the prediction landscape to show where the model draws the line between classes.
-- **Confidence Intervals:** (Optional) Visualizing the certainty of predictions in different regions.
 
 ![Decision_boundaries](images/Decision_boundaries.png)
 Figure 2: Visualization of the result (plotted Decision Boundaries)
